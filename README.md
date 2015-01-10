@@ -1,7 +1,7 @@
 # Things-to-do
 Google, yahoo always return everything under the sun in results except what you need.
 I would like to use google api's and services but fine tuned.
-I would like  to design a Things to do "now" app for a specific domain (seek4free) that return real results.
+I would like  to design a Things to do "now" app for a specific domain (http://seek4free.com) that return real results.
 Right now we have to manually app pages for "best of""things to do" and others. I would like to stop the manual process and get a live update with a live web crawler according to the users location. The user in california does not need florida information!
 Example searches:
 a. "jazz music tonight", the app will search by distance or city, and return links to websites and phone numbers to non website venues.
